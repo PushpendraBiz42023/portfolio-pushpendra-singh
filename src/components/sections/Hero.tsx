@@ -48,9 +48,9 @@ export default function Hero() {
               </span>
             </address>
             <div className="hero-actions">
-              <div href="#portfolio" className="btn-pill">
+              <a href="#portfolio" className="btn-pill">
                 View Projects
-              </div>
+              </a>
               <a
                 className="btn-pill btn-pill--outline"
                 href="https://www.linkedin.com/in/pushpendra-singh-47aba3221"
