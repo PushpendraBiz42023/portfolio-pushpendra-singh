@@ -4,7 +4,7 @@ export const hero = {
   greeting: "Hello There!",
   heading: "I'm Pushpendra Singh",
   role: "Software Engineer",
-  introintro:
+  intro:
     "I build fast, accessible React.js and Next.js interfaces in TypeScript — from multi-tenant SaaS dashboards and headless CMS sites to cross-platform mobile apps and LLM-powered chat experiences.",
 };
 
